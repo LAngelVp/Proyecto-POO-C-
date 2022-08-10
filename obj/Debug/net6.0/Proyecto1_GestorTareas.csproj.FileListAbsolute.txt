@@ -1,0 +1,15 @@
+/home/luis/Escritorio/Proyecto1_GestorTareas/bin/Debug/net6.0/Proyecto1_GestorTareas
+/home/luis/Escritorio/Proyecto1_GestorTareas/bin/Debug/net6.0/Proyecto1_GestorTareas.deps.json
+/home/luis/Escritorio/Proyecto1_GestorTareas/bin/Debug/net6.0/Proyecto1_GestorTareas.runtimeconfig.json
+/home/luis/Escritorio/Proyecto1_GestorTareas/bin/Debug/net6.0/Proyecto1_GestorTareas.dll
+/home/luis/Escritorio/Proyecto1_GestorTareas/bin/Debug/net6.0/Proyecto1_GestorTareas.pdb
+/home/luis/Escritorio/Proyecto1_GestorTareas/obj/Debug/net6.0/Proyecto1_GestorTareas.csproj.AssemblyReference.cache
+/home/luis/Escritorio/Proyecto1_GestorTareas/obj/Debug/net6.0/Proyecto1_GestorTareas.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Escritorio/Proyecto1_GestorTareas/obj/Debug/net6.0/Proyecto1_GestorTareas.AssemblyInfoInputs.cache
+/home/luis/Escritorio/Proyecto1_GestorTareas/obj/Debug/net6.0/Proyecto1_GestorTareas.AssemblyInfo.cs
+/home/luis/Escritorio/Proyecto1_GestorTareas/obj/Debug/net6.0/Proyecto1_GestorTareas.csproj.CoreCompileInputs.cache
+/home/luis/Escritorio/Proyecto1_GestorTareas/obj/Debug/net6.0/Proyecto1_GestorTareas.dll
+/home/luis/Escritorio/Proyecto1_GestorTareas/obj/Debug/net6.0/refint/Proyecto1_GestorTareas.dll
+/home/luis/Escritorio/Proyecto1_GestorTareas/obj/Debug/net6.0/Proyecto1_GestorTareas.pdb
+/home/luis/Escritorio/Proyecto1_GestorTareas/obj/Debug/net6.0/Proyecto1_GestorTareas.genruntimeconfig.cache
+/home/luis/Escritorio/Proyecto1_GestorTareas/obj/Debug/net6.0/ref/Proyecto1_GestorTareas.dll
